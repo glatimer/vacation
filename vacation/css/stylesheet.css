@@ -11,3 +11,11 @@ p {
   text-align: center;
 padding-bottom: 10px;
 }
+.jumbotron {
+    position: relative;
+    background: black url(img/hawaii-oceanscape.jpg) center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
